@@ -61,6 +61,11 @@ Without an OS, each program would need to control hardware directly.
 - **Unix created in 1971** by Ken Thompson  
 - Simple, portable, multiuser  
 - Home PCs begin to appear
+- **Simpler OSs like CP/M (1974), PC-DOS (1981)**  
+- **CP/M & DOS enabled home/office computing; Unix remained for power users**  
+  CP/M·DOS는 가정/사무실 컴퓨팅을 가능하게 했지만  
+  유닉스는 고급 사용자와 개발자 중심 OS로 자리 잡음
+
 
 ### **1980s**
 - GUI Operating Systems emerge (Mac 1984, Windows 1985)  
