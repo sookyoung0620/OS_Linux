@@ -30,7 +30,8 @@ Without an OS, each program would need to control hardware directly.
 
 ---
 
-## 4. Advantages of Operating Systems
+## 4. Advantages/Disadvantages of Operating Systems
+### Advantages
 - Manages internal/external devices
 - Provides drivers & interfaces
 - Supports multitasking
