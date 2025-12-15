@@ -1,8 +1,6 @@
 # Session 2: Introduction to Unix/Linux
 
 ## 1. What is an Operating System?
-Linux
-----
 ### Ubuntu
 - User-friendly
 - Modern
