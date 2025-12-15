@@ -92,8 +92,53 @@ whoami        # Displays your username        # Shows current date and time
 uname -a      # Displays system information
 ls            # Lists files in the current directory
 echo "Hello Linux"
+```
+### Reflection Questions
+- What is the name of your system?
+- Are you using WSL, a virtual machine, or native Linux?
+- Which command output was the most surprising?
 
-Reflec
-### Reflection Questionsi- What is the name of your system?-What is the name of your systemachine, or native Linux?
+## 8. Updating Your System
+```bash
+sudo apt update
+sudo apt upgrade
+```
+- sudo grants administrator privileges
+- Keeps the system secure and up to date
 
-Which command output was the mosWhich
+## 9. Finding Help in Linux
+### Manual Pages
+```bash
+man cp
+```
+### Built-in Help
+```bash
+ls --help
+```
+### Online Resources
+StackOverflow
+AskUbuntu
+Linux forums
+
+## 10. Customizing and Documenting Your Linux System
+## Goals
+- Learn basic system personalization
+- Help other students
+- Practice documentation
+## Desktop Personalization
+- Change wallpaper
+- Customize theme, icons, mouse, and window behavior
+- Install themes/icons via Software Center (GUI)
+## Install 3 Useful Applications (GUI Only)
+Examples:
+- GIMP
+- VLC Media Player
+- Thunderbird
+- Kdenlive
+- Geary
+
+## Explore Directories
+```bash
+ls -lh
+du -sh *
+```
